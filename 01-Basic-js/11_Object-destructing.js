@@ -1,7 +1,7 @@
 const course = {
-    coursename: "js in hindi",
-    price: "999",
-    courseInstructor: "hitesh"
+    coursename: "welcome to the course",
+    price: "1999",
+    courseInstructor: "Divya"
 }
 
 // course.courseInstructor
@@ -12,9 +12,10 @@ const {courseInstructor: instructor} = course
 console.log(instructor);
 
 // {
-//     "name": "hitesh",
-//     "coursename": "js in hindi",
-//     "price": "free"
+      //  name: "Divya"
+//     coursename: "welcome to the course",
+   //  price: "1999",
+   
 // }
 
 [
